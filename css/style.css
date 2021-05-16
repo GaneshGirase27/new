@@ -1,13 +1,20 @@
 body{
     margin: 0px;
-    text-align: center;                  
+  text-align: center;  
+  
+  font-family: 'Merriweather', serif;
+
 }
+
 
 h1{
 
     margin: 0 auto 0 auto;
-
+    font-family: 'Sacramento', cursive;
 }
+
+
+
 div{
 
     background-color: #c6fce5;
@@ -25,4 +32,13 @@ right: 400px;
 
 }
 
+.Ganesh{
 
+  font-size: 70px;
+}
+
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+
+}
