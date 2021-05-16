@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    text-align: center;                  
+}
+
+h1{
+
+    margin: 0 auto 0 auto;
+
+}
+div{
+
+    background-color: #c6fce5;
+}
+
+.bottom-cloud{
+
+position: absolute;
+}
+
+.top-cloud{
+padding-top: 40px;
+position: absolute;
+right: 400px;
+
+}
+
+
